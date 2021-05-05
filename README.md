@@ -1,15 +1,17 @@
-### I'm a Creative Web Developer
+### Welcome
 
 - Credentials: BA in Film, Le Wagon full stack bootcamp, Adobe Certified in Web and Video Design
 - Expertise: Frontend Development, Ruby on Rails, Javascript, GitHub, SCSS, Jekyll, Adobe XD/PS/AI/AE/PR
-- Currently working with Distinct Creative Group, Hack for LA, freelance and pet projects.
-- Currently learning: MERN stack, VueJS, CSS animation systems, & Docker
+- Currently working with Distinct Creative Group, Hack for LA, freelance and passion projects.
+- Currently learning: SEO, MERN stack, VueJS, CSS animation systems, & Docker
 - Looking to collaborate on badass projects
 - Hit me up for a game of Go or a round of disc golf
 
-[![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=mcspach&count_private=true&include_all_commits=true&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcspach&theme=tokyonight)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcspach&theme=tokyonight&hide=stars&show_icons=true)
 
-## Connect with me:
+
+### Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
