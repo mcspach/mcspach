@@ -7,7 +7,7 @@
 - Looking to collaborate on badass projects
 - Hit me up for a game of Go or a round of disc golf
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcspach&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=mcspach&theme=tokyonight)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcspach&theme=tokyonight&hide=stars&show_icons=true)
 
 
