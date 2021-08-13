@@ -11,9 +11,9 @@
 
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][agency]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+Website: [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+Agency: [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][agency]
+LinkedIn: [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 <!-- Optional if you have blogs -->
 <!-- ## Latest blog posts: -->
@@ -21,6 +21,6 @@
 <!-- BLOG-POST-LIST:END -->
 <!-- This section you create this variables that are used above -->
 
-- Website [website]: https://www.matthewspach.com/
-- Agency [agency]: https://www.distinctcreativegroup.com/
-- LinkedIn [linkedin]: https://www.linkedin.com/in/matthewspach/
+[website]: https://www.matthewspach.com/
+[agency]: https://www.distinctcreativegroup.com/
+[linkedin]: https://www.linkedin.com/in/matthewspach/
