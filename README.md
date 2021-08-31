@@ -4,7 +4,7 @@
 - Expertise: Frontend Development, Ruby on Rails, Javascript, GitHub, SCSS, Jekyll, Adobe XD/PS/AI/AE/PR
 - Currently working with Distinct Creative Group, Modern Campus, and Hack for LA.
 - Currently learning: XSL Templating, MERN stack, VueJS, CSS animation systems, & Docker
-- Hit me up for a game of Go or a round of disc golf
+- Always down for a game of Go or a round of disc golf
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mcspach&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcspach&theme=tokyonight&hide=stars&show_icons=true)
