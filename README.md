@@ -1,9 +1,9 @@
 ### Welcome
 
-- Credentials: BA in Film, Le Wagon full stack bootcamp, Adobe Certified in Web and Video Design
-- Expertise: Frontend Development, Ruby on Rails, Javascript, GitHub, SCSS, Jekyll, Adobe XD/PS/AI/AE/PR
+- Credentials: B.A. in Cinema & Television Arts, Le Wagon Full-Stack Bootcamp, Adobe Certified in Web + Video Design
+- Expertise: Frontend Development, Ruby on Rails, Javascript, GitHub, SCSS, Jekyll, XSLT+XML, Adobe XD/PS/AI/AE/PR
 - Currently working with Distinct Creative Group, Modern Campus, and Hack for LA.
-- Currently learning: XSL Templating, MERN stack, VueJS, CSS animation systems, & Docker
+- Currently learning: MERN stack, VueJS, Chome Extensions & Docker
 - Always down for a game of Go or a round of disc golf
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mcspach&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
