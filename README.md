@@ -1,9 +1,9 @@
 ### Welcome
 
 - Credentials: B.A. in Cinema & Television Arts, Le Wagon Full-Stack Bootcamp, Adobe Certified in Web + Video Design
-- Expertise: Frontend Development, Ruby on Rails, Javascript, GitHub, SCSS, Jekyll, XSLT+XML, Adobe XD/PS/AI/AE/PR
-- Currently working with Distinct Creative Group, Modern Campus, and Hack for LA.
-- Currently learning: MERN stack, VueJS, Chome Extensions & Docker
+- Expertise: Frontend Development, Ruby on Rails, Javascript, GitHub, SCSS, Jekyll, XSLT+XML, Adobe XD/PS/AI/AE/PR, webflow
+- Currently working with Distinct Creative Group + AnyFans.
+- Currently learning: VueJS, ReactNative, Chome Extensions & Docker
 - Always down for a game of Go or a round of disc golf
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mcspach&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -15,10 +15,6 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][agency]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
-<!-- Optional if you have blogs -->
-<!-- ## Latest blog posts: -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 <!-- This section you create this variables that are used above -->
 
 [website]: https://www.matthewspach.com/
