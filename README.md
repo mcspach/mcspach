@@ -3,7 +3,7 @@
 - Credentials: B.A. in Cinema & Television Arts, Le Wagon Full-Stack Bootcamp, Adobe Certified in Web + Video Design
 - Expertise: Frontend Development, Ruby on Rails, Javascript, GitHub, SCSS, Jekyll, XSLT+XML, Adobe XD/PS/AI/AE/PR, webflow
 - Currently working with Distinct Creative Group + AnyFans.
-- Currently learning: VueJS, ReactNative, Chome Extensions & Docker
+- Currently learning: Node, ReactNative, Chome Extensions & WebGL
 - Always down for a game of Go or a round of disc golf
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mcspach&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
