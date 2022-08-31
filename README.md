@@ -1,4 +1,4 @@
-### Welcome
+### Howdy
 
 - Credentials: B.A. in Cinema & Television Arts, Le Wagon Full-Stack Bootcamp, Adobe Certified in Web + Video Design
 - Expertise: Frontend Development, Ruby on Rails, Javascript, GitHub, SCSS, Jekyll, XSLT+XML, Adobe XD/PS/AI/AE/PR, webflow
