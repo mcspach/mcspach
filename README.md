@@ -2,7 +2,7 @@
 
 - Credentials: B.A. in Cinema & Television Arts, Le Wagon Full-Stack Bootcamp, Adobe Certified in Web + Video Design
 - Expertise: Frontend Development, Ruby on Rails, Javascript, GitHub, SCSS, Jekyll, XSLT+XML, Adobe XD/PS/AI/AE/PR, webflow
-- Currently working with Distinct Creative Group + AnyFans.
+- Currently working with Distinct Creative Group + AF Social.
 - Currently learning: Node, ReactNative, Chome Extensions & WebGL
 - Always down for a game of Go or a round of disc golf
 
