@@ -5,8 +5,8 @@
 - Currently learning: Node, ReactNative, Chome Extensions & WebGL
 - Always down for a game of Go or a round of disc golf
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mcspach&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcspach&theme=tokyonight&hide=stars&show_icons=true)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mcspach&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcspach&theme=tokyonight&hide=stars&show_icons=true) -->
 
 
 ### Connect with me:
