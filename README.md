@@ -4,7 +4,7 @@
 - Credentials: B.A. in Cinema & Television Arts, Le Wagon Full-Stack Bootcamp, Adobe Certified in Web + Video Design
 
 - Work at Modern Campus Design Studio building web experiences for higher education
-- Creative Director at [<RedTail Web Design>][redtail]
+- Creative Director at [RedTail Web Design][redtail]
 
 - Currently learning: GSAP
 - Always down for a game of Go or a round of disc golf
